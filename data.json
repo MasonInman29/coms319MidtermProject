@@ -15,7 +15,7 @@
             "name" : "Classic Cola",
             "details" : "Your average cola with a not so average flavor quality",
             "price" : "$2.25",
-            "url" : "./images/Soda.jpg"
+            "url" : "./images/soda.jpg"
         },
         {
             "id": 3,
@@ -23,7 +23,7 @@
             "name" : "Iced Tea",
             "details" : "A cool tea beverage chilled to perfection",
             "price" : "$2.00",
-            "url" : "./images/icedTea.jpg"
+            "url" : "./images/icedtea.jpg"
         },
         {
             "id":4,
